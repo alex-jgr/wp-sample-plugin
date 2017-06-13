@@ -19,6 +19,6 @@ return array(
     ),
     
     'pageTemplates' => array(
-        'sample-plugin-full.php' => 'Visit Rural Full'
+        'sample-plugin-full.php' => 'Sample Plugin Template Full'
     )
 );
